@@ -1,0 +1,4 @@
+interface:
+  display_name: "出差行程规划"
+  short_description: "规划多城市商务出差的航班、高铁、酒店、差标与跨城衔接"
+  default_prompt: "使用 $business-trip-planner 规划一份满足差旅标准的多城市出差行程。"
